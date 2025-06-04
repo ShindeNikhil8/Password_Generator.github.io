@@ -1,7 +1,7 @@
 # 🔐 Password Generator
 
 **Live Demo ➜** [Click here to try!]( https://shindenikhil8.github.io/Password_Generator.github.io/)  
-> _Replace the above link with your actual GitHub Pages URL_
+
 
 Welcome to my **responsive and customizable Password Generator** built with HTML, CSS, and JavaScript! Create strong, secure passwords based on your preferences and check their strength instantly.
 
