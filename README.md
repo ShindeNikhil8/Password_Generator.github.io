@@ -1,4 +1,4 @@
-# 🔐 Password Generator Web App
+# 🔐 Password Generator
 
 **Live Demo ➜** [Click here to try!]( https://shindenikhil8.github.io/Password_Generator.github.io/)  
 > _Replace the above link with your actual GitHub Pages URL_
